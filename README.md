@@ -1,7 +1,42 @@
 <h1 align="center">Greetings👋, I'm Muhammad komail Khan</h1>
-<h3 align="center">Full Stack Hybrid App Developer | JavaScript Engineer | AWS Enthusiast</h3>
+<h3 align="center">Full Stack Hybrid App Developer | JavaScript Engineer | CS Graduate</h3>
 
-<P>I'm a seasoned Full Stack Hybrid App Developer with expertise in React Native and JavaScript. My journey spans over 3 years, during which I've honed my skills and specialized in crafting exceptional mobile applications. I'm also well-versed in AWS Services, allowing me to build robust and scalable solutions. With a successful track record of delivering projects to satisfied clients across the globe, I'm dedicated to creating impactful and user-centric applications that drive results.</P>
+<P>
+
+
+👋 Hello there! I'm Muhammad Komail, a dedicated React Native developer with a strong track record of creating engaging and versatile mobile applications. With a solid 2-year journey in the realm of mobile development, I'm a Computer Science graduate from SMI University, equipped with the knowledge and skills to craft seamless digital experiences.
+
+🚀 My Journey:
+
+🎓 **Education**: I hold a degree in Computer Science from SMI University, where I developed a solid foundation in software engineering principles and problem-solving.
+
+📱 **React Native Expertise**: Over the past 2 years, I've immersed myself in the world of React Native. I've successfully brought multiple app ideas to life, adeptly navigating the intricacies of cross-platform development. My apps run flawlessly on both iOS and Android devices, providing users with consistent and delightful interactions.
+
+🎨 **UI/UX Sensibility**: I believe that great functionality should be complemented by exceptional design. My keen eye for UI/UX design ensures that the applications I develop are not just powerful, but also visually appealing and user-friendly. I strive to create interfaces that users genuinely enjoy engaging with.
+
+🛠️ **Code Craftsmanship**: I take pride in writing clean, maintainable code. I understand that high-quality code is the foundation of a successful application. I'm well-versed in best practices, code optimization, and ensuring excellent performance across the board.
+
+🌐 **Collaboration and Learning**: I'm an avid advocate of collaboration and continuous learning. I'm always eager to engage with fellow developers, share insights, and stay updated on the latest industry trends. I believe that the best solutions emerge through the exchange of ideas.
+
+📁 **Projects to Note**:
+
+Gold Trading App: 
+- Spearheaded the development of a mobile app for gold trading, integrating real-time price tracking and trading functionalities.
+- Implemented secure authentication and user accounts using JWT tokens and OAuth.
+- Optimized app performance by fine-tuning components and minimizing API calls.
+- Collaborated closely with cross-functional teams, including designers and backend developers, to deliver cohesive and feature-rich applications.
+- Participated in code reviews and provided constructive feedback to ensure code quality and adherence to best practices.
+- Stayed up-to-date with the latest trends and advancements in mobile app development, integrating new technologies where applicable.
+
+Family Interaction App: 
+- Designed and implemented real-time chat and notification features to facilitate seamless communication among family members.
+- Collaborated with UI/UX designers to ensure a visually appealing and user-centric interface.
+
+- [Story App]: 
+- Led the development of a storytelling application, allowing users to create, read, and share stories in various formats.
+- Implemented offline storage using AsyncStorage, enhancing user experience in low-connectivity scenarios.
+- Utilized Redux for state management, ensuring efficient data flow throughout the app.
+</P>
 <h1></h1> 
 
 - 🚀 More than 3 years of experience creating innovative and user-friendly applications
