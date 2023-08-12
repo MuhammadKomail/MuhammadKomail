@@ -32,7 +32,7 @@ Family Interaction App:
 - Designed and implemented real-time chat and notification features to facilitate seamless communication among family members.
 - Collaborated with UI/UX designers to ensure a visually appealing and user-centric interface.
 
-- [Story App]: 
+Story App: 
 - Led the development of a storytelling application, allowing users to create, read, and share stories in various formats.
 - Implemented offline storage using AsyncStorage, enhancing user experience in low-connectivity scenarios.
 - Utilized Redux for state management, ensuring efficient data flow throughout the app.
